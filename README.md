@@ -1,27 +1,29 @@
-# DevDetective - GitHub Profile Search Tool
+# Tic-Tac-Toe
 
-DevDetective is a web application designed to search and display GitHub profiles in a clean and responsive format. This project leverages HTML, CSS, and JavaScript to interact with the GitHub API, providing users with a seamless experience to fetch and view detailed information about any GitHub user.
+Tic-Tac-Toe is a classic and fun web application that allows users to play the traditional Tic-Tac-Toe game against a friend. This project is built using HTML, CSS, and JavaScript to provide a simple and interactive gaming experience.
 
 ## Features
 
-- **GitHub User Search**: Easily search for any GitHub user by entering their username.
-- **Profile Information**: Displays user's avatar, name, username, bio, repositories, followers, following, location, website, Twitter handle, and company.
-- **Dark Mode**: Toggle between light and dark modes for a comfortable viewing experience.
-- **Error Handling**: Shows a "no search results" message if the username is not found.
+- **Two-Player Mode**: Play Tic-Tac-Toe with a friend on the same device.
+- **Interactive UI**: Click to place X's and O's on the game board.
+- **Win Detection**: Automatically detects and announces the winner or a tie.
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
 ## Live Demo
 
-Check out the live demo of the project on GitHub Pages: [DevDetective](https://nishantvidhuri.github.io/Dev-Detective/)
+Check out the live demo of the project on GitHub Pages: [Tic-Tac-Toe](https://nishantvidhuri.github.io/Tic-Tac-Toe/)
 
+## Screenshots
 
+![Tic-Tac-Toe Screenshot](path/to/your/screenshot.png)
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/DevDetective.git
-    cd DevDetective
+    git clone https://github.com/nishantvidhuri/Tic-Tac-Toe.git
+    cd Tic-Tac-Toe
     ```
 
 2. **Open `index.html` in your web browser:**
@@ -32,8 +34,9 @@ Check out the live demo of the project on GitHub Pages: [DevDetective](https://n
 
 ## Usage
 
-1. Enter a GitHub username in the search bar.
-2. Click on the "Search" button or press "Enter" to fetch and display the profile information.
-
+1. Open the Tic-Tac-Toe application.
+2. Click on the grid to place your X or O.
+3. Take turns with your friend until the game announces a winner or a tie.
+4. Click the "Reset" button to start a new game.
 
 
