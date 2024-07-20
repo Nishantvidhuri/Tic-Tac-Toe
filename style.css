@@ -76,7 +76,7 @@
     position: absolute;
     bottom:3rem;
     left: 50%;
-    ttransform: translate(-50%,-90%);
+    transform: translate(-50%,-90%);
     background-color: rgba(255, 255, 255, .15);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, .25); ;
